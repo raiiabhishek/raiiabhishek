@@ -1,5 +1,8 @@
-<h1 align="left">A.RAI</h1>
-<h3 align="left">Computer science student👨‍💻</h3>
+[![MasterHead](https://www.wouterbongaerts.com/gif)](https://rishavchanda.io)
+<h1 align="left">A.RAII</h1>
+<h2 align="left">Computer science student👨‍💻</h2>
+
+<img align="right" alt="Coding" width="400" src="https://www.wouterbongaerts.com/gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiiabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="raiiabhishek" /> </p>
 
