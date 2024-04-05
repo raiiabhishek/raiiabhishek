@@ -1,5 +1,5 @@
-<h1 align="left">K cha hau ? </h1>
-<h3 align="left">Developer vaidim vaneko yar..</h3>
+<h1 align="left">A.Raii</h1>
+<h3 align="left">Computer science student👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiiabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="raiiabhishek" /> </p>
 
