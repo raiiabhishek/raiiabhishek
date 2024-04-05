@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiiabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="raiiabhishek" /> </p>
 
-<p align="left"> <a href="https://https://twitter.com/ANDAZIIFICATION/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ANDAZIIFICATION" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack, JAVA, JavaScript**
 
