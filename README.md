@@ -1,11 +1,9 @@
-[![MasterHead](https://www.wouterbongaerts.com/gif)](https://rishavchanda.io)
 <h1 align="left">A.RAII</h1>
 <h2 align="left">Computer science student👨‍💻</h2>
 
-<img align="right" alt="Coding" width="400" src="https://www.wouterbongaerts.com/gif">
+<img align="right" alt="Coding" width="400" height =" 300" object-fit="cover" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiiabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="raiiabhishek" /> </p>
-
 <p align="left"> <a href="https://twitter.com/a.rai" target="blank"><img src="https://img.shields.io/twitter/follow/a.rai?logo=twitter&style=for-the-badge" alt="a.rai" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, MERN**
